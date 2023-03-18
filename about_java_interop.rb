@@ -9,7 +9,7 @@ include Java
 # * Showing what gets returned
 # * Ruby Strings  VS Java Strings
 # * Calling custom java class
-# * Calling Ruby from java????
+# * Calling Ruby from java???
 
 class AboutJavaInterop < Neo::Koan
   def test_using_a_java_library_class
